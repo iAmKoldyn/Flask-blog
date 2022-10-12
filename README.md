@@ -1,4 +1,4 @@
-A lightweight blog app built with Python and Flask. Source Code from my Python and Flask Web Development Course
+#A lightweight blog app built with Python and Flask. Source Code from my Python and Flask Web Development Course
 
 ![](https://i.imgur.com/8ahzSnh.gif)
 
