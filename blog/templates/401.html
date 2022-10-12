@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}401 - Отказано в доступе{% endblock %}
+
+{% block content %}
+<div class="container content-container">
+
+    <div class="row no-gutters">
+
+        <div class="col-md-9 order-md-2">
+            <div class="about-page-block">
+                <p class="lead">Errore 401.</p>
+                <hr>
+                <p>Отказано в доступе.</p>
+                <p>У вас нет необходимых разрешений для выполнения операции.</p>
+                <hr>
+                <a class="btn btn-sm btn-outline-secondary" href="{{ url_for('homepage') }}">↩ Все сообщения</a>            
+            </div>    
+
+        </div>
+
+        <div class="col-md-3 order-md-1">
+            {% include 'about_me_snippet.html' %}              
+        </div>
+
+    </div>
+    
+</div>
+{% endblock %}
