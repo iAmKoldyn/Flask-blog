@@ -1,5 +1,4 @@
-# CodingWiz.dev
-A lightweight blog app built with Python and Flask. Source Code from my Python and Flask Web Development Course (Lang: Italian)
+A lightweight blog app built with Python and Flask. Source Code from my Python and Flask Web Development Course
 
 ![](https://i.imgur.com/8ahzSnh.gif)
 
@@ -7,7 +6,7 @@ A lightweight blog app built with Python and Flask. Source Code from my Python a
 ### How To Install Locally
 ```
 git clone https://github.com/pymike00/codingwiz-dev.git
-cd codingwiz-dev
+cd flask-blog
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
