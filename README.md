@@ -1,8 +1,8 @@
-### A lightweight blog app built with Python and Flask. Source Code from my Python and Flask Web Development Course
+### A lightweight blog app built with Python and Flask.
 
 ### How To Install Locally
 ```
-git clone https://github.com/pymike00/codingwiz-dev.git
+git clone https://github.com/iAmKoldyn/Flask-blog.git
 cd flask-blog
 python3 -m venv venv
 source venv/bin/activate
